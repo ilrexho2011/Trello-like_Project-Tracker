@@ -2,6 +2,8 @@
 
 A modern project management tool inspired by Trello, built with Next.js, Supabase, and Clerk. This full-stack application provides a comprehensive board experience with drag-and-drop functionality, real-time collaboration, and subscription-based features.
 
+<img width="1655" height="929" alt="image" src="https://github.com/user-attachments/assets/62a33327-ef66-4577-9d5f-845960af3095" />
+
 ## Demo
 
 - Live Preview: soon will be here a vercel link

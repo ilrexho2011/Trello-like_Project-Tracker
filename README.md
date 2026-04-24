@@ -1,4 +1,4 @@
-# Trello-like_Project-Tracker - Next.js
+# Trello-like_AI-Project-Tracker - Next.js
 
 A modern project management tool inspired by Trello, built with Next.js, Supabase, and Clerk. This full-stack application provides a comprehensive board experience with drag-and-drop functionality, real-time collaboration, and subscription-based features.
 
